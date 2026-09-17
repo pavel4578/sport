@@ -6,7 +6,7 @@ include 'temp/bd.php';
 <div class="row">
   <div class="col-3"></div>
 <form method="post" action="avto.php" class="col-6">
-  <h1 class="mb-3 mt-3">Авторизация</h1>
+  <h1 class="mb-3 mt-3">Авторизация для посетителя</h1>
   <div class="mb-3">
     <label for="exampleInputPassword1" class="form-label">Логин</label>
     <input type="text" class="form-control" id="exampleInputPassword1" name="login"  required>
